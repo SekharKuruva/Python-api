@@ -61,6 +61,7 @@ class JSONfromURLChange:
 middle = falcon.CORSMiddleware(
     allow_origins="*"
 )
+print("Hello World")
 
 api = falcon.App(middleware=middle)
 
