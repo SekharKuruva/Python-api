@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Raja,
+        "username":"Rajasekhar",
+        "email":"Raja@12gmail.com",
+        "Phno":"843754837845",
+        "Company":"TTM"
+    }
+    {
+        "id":2,
+        "name":"Suresh",
+        "username":"Suresh.g",
+        "email":"Suresh@12gmail.com",
+        "Phno":"8473854837845",
+        "Company":"xyz"
+    }
+    {
+        "id":3,
+        "name":"Sekhar,
+        "username":"Sekhar.k",
+        "email":"Sekhar@12gmail.com",
+        "Phno":"843758438845",
+        "Company":"ABC"
+    }
+]
